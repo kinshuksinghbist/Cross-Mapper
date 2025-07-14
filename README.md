@@ -3,7 +3,7 @@
 
 This project performs multi-camera object tracking on football match footage. The primary goal is to detect players, track them within each video feed, and then create a consistent mapping of player IDs between two different camera views using homography.
 
-![Results](https://drive.google.com/file/d/1mHkfg7uMtfYaxyP3l5c6Or1MGDqXeMvk/view?usp=sharing)
+![hippo](https://drive.google.com/file/d/1mHkfg7uMtfYaxyP3l5c6Or1MGDqXeMvk/view?usp=sharing)
 -----
 
 ## Project Structure
