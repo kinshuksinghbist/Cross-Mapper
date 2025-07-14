@@ -1,7 +1,7 @@
 
 # Multi-Camera Cross Mapping and Annotation
 
-This project performs multi-camera object tracking on football match footage. The primary goal is to detect players, track them within each video feed, and then create a consistent mapping of player IDs between two different camera views using homography.
+This project performs multi-camera object tracking on football match footage. The primary goal is to detect players, track them within each video feed, and then create a consistent mapping of player IDs between two different camera views using homography. **Please download the attached documentation for reference and my approach to the problem.**
 
 ![til](./Result_Sample.gif)
 -----
